@@ -1,1 +1,2 @@
-echo "First arg: $1"
+SERVER = $1
+echo "First arg: $SERVER"
