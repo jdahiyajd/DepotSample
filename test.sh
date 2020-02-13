@@ -1,2 +1,3 @@
+server=$1
 echo "I am here :)"
-echo "First arg: $1"
+echo "First arg: "$server" "
